@@ -1,0 +1,2 @@
+# Cosmo-Pop
+Welcome to the **Cosmo-Pop** GitHub org.! Our research focuses on developing generative models to understand galaxy formation and evolution, enabling precise cosmology. This includes developing the `pop-cosmos` generative model for the galaxy population. You can find out more about our research on our [webpage](https://cosmo-pop.github.io), in our papers, or by exploring our GitHub repositories!
