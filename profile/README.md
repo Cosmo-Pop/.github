@@ -18,6 +18,7 @@ Welcome to the **Cosmo-Pop** GitHub org.! Our research focuses on developing gen
 [![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4365%2Fad5c69-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4365/ad5c69)
 [![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4357%2Fad7736-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4357/ad7736)
 [![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4365%2Fad8ebd-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4365/ad8ebd)
+[![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4357%2Fae0936-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4357/ae0936)
 #### Data Products
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.15622324-%231682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.15622324)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.13627488-%231682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.13627488)
