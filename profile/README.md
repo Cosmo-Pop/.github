@@ -11,6 +11,8 @@ Welcome to the **Cosmo-Pop** GitHub org.! Our research focuses on developing gen
 [![Static Badge](https://img.shields.io/badge/arXiv-2406.19437-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2406.19437)
 [![Static Badge](https://img.shields.io/badge/arXiv-2506.12122-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2506.12122)
 [![Static Badge](https://img.shields.io/badge/arXiv-2509.20430-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2509.20430)
+[![Static Badge](https://img.shields.io/badge/arXiv-2602.03930-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2602.03930)
+[![Static Badge](https://img.shields.io/badge/arXiv-2602.03935-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2602.03935)
 #### Research Highlights (Journal Versions)
 [![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4365%2Fab917f-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4365/ab917f)
 [![DOI](https://img.shields.io/badge/DOI-10.3847%2F1538--4365%2Fac9583-%23fab70c?logo=doi&logoColor=%23fab70c)](https://doi.org/10.3847/1538-4365/ac9583)
