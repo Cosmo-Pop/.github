@@ -28,6 +28,7 @@ Welcome to the **Cosmo-Pop** GitHub org.! Our research focuses on developing gen
 #### Data Products
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.15622324-%231682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.15622324)
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.13627488-%231682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.13627488)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22143991-%231682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22143991)
 #### Related Software
 [![Static Badge](https://img.shields.io/badge/GitHub-justinalsing%2Faffine-%23181717?logo=GitHub&logoColor=white)](https://github.com/justinalsing/affine)
 [![Static Badge](https://img.shields.io/badge/GitHub-justinalsing%2Fspeculator-%23181717?logo=GitHub&logoColor=white)](https://github.com/justinalsing/speculator)
